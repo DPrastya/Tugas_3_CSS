@@ -1,0 +1,15 @@
+.paragraf_pertama {
+background-color: goldenrod;
+}
+.p_kedua {
+    background-color: blue;
+}
+.p_tiga {
+    outline-style: solid;
+    outline-width: thin;
+    font-family: Georgia;
+}
+.p_empat {
+    background-color: gray;
+    font-weight: bold;
+}
